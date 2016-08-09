@@ -1,0 +1,158 @@
+body {
+	font-size: 16px;
+}
+
+.hero {
+	margin-top: 2em;
+}
+
+.hero p {
+	font-size: 16px;
+	letter-spacing: 0.04em;
+}
+
+.show-modal {
+	overflow: hidden;
+	position: relative;
+}
+
+.show-modal:before {
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+	background-color: rgba(255, 255, 255, 0.85);
+}
+
+.show-modal .modal {
+	display: block;
+}
+
+section + section {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.header {
+	overflow: hidden;
+	text-align: center;
+	background-color: rgb(63,81,181);
+	color: white;
+	padding: 0 1em 1em 1em;
+}
+
+.header h1, .header h5 {
+	font-weight: 300;
+}
+
+.header h5 {
+	line-height: 1.5;
+}
+
+.constrain {
+	width: 100%;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	box-sizing: border-box;
+}
+
+.form {
+	position: relative;
+}
+
+.form--loading:before {
+	content: '';
+}
+
+.form--loading .form__spinner {
+	display: block;
+}
+
+.form:before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.7);
+	z-index: 10;
+}
+
+.form__spinner {
+	display: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 11;
+}
+
+.review {
+	width: 100%;
+	margin: 20px auto;
+	min-height: 0;
+}
+
+.review__description {
+	margin-top: 1em;
+}
+
+.rating-star {
+	width: 24px;
+	color: #EBBD5B;
+	vertical-align: middle;
+}
+
+.rating-radio {
+	display: none;
+}
+
+.rating-radio + .rating-radio-label .rating-radio-star--off {
+	display: none;
+}
+
+.rating-radio:checked ~ .rating-radio-label .rating-radio-star--on {
+	display: none;
+}
+
+.rating-radio:checked ~ .rating-radio-label .rating-radio-star--off {
+	display: inline-block;
+}
+
+.rating-select {
+	margin-bottom: 20px;
+}
+
+.field-group {
+	display: block;
+}
+
+.mdl-card__supporting-text {
+	padding-top: 0;
+}
+
+.footer__container {
+	width: 100%;
+	text-align: center;
+}
+
+.footer__info {
+	float: none;
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	width: 300px;
+	top: 50%;
+	left: 50%;
+	margin-left: -150px;
+	margin-top: -150px;
+	min-height: 0;
+	z-index: 9999;
+}
