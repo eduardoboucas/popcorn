@@ -1,0 +1,9 @@
+name: John Smith
+address: ''
+title: The Last Samurai
+description: >-
+  This is a sample page to demonstrate how Staticman can be used to integrate
+  user-generated content into a static site. When a movie review is submitted,
+  the data is sent to the Staticman API via Ajax, which will push it to the
+  GitHub repository and cause a regeneration of the Jekyll site.
+rating: '1'
