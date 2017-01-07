@@ -1,0 +1,7 @@
+_id: a7c26df0-d49d-11e6-9368-6f3376ed1e72
+name: foobar
+address: ''
+title: foo
+description: bar *bar* bar **bar**
+rating: '3'
+date: '2017-01-07T05:53:47.473Z'
