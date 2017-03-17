@@ -1,0 +1,7 @@
+_id: 146fe530-0b31-11e7-b927-6162ddbd5530
+name: Mark Down
+address: ''
+title: Fibonacci
+description: "## Fibonacci Review\r\n\r\nIt was a great movie, but I'm afraid I had trouble understanding the following scene:\r\n\r\n```Python\r\ndef fib(n):\r\n    a, b = 0, 1\r\n    while a < n:\r\n        print(a, end=' ')\r\n        a, b = b, a+b\r\n    print()\r\n\r\nfib(1000)\r\n```\r\n\r\nPerhaps if it had been in Ruby...."
+rating: '4'
+date: '2017-03-17T16:45:08.810Z'
