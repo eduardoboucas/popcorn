@@ -1,0 +1,7 @@
+_id: fb72e860-357f-11e7-8726-1db4d0eaafc8
+name: Am I
+address: ''
+title: Protected
+description: "This is a regular paragraph.\r\n\r\n<script>alert('you guess');</script>\r\n\r\nThis is another regular paragraph."
+rating: '5'
+date: '2017-05-10T12:55:45.803Z'
