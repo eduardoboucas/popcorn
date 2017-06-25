@@ -1,0 +1,10 @@
+_id: 0af60500-593a-11e7-a44c-8b85556efd22
+name: Test
+address: ''
+title: Test
+description: Test
+rating: '1'
+date: '2017-06-25T00:05:48.877Z'
+layout: verslag
+excerpt_separator: <!--more-->
+draft: true
