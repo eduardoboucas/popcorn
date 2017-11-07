@@ -1,0 +1,11 @@
+_id: 5cde4830-c354-11e7-a068-4bb54bc96aa1
+name: hello
+address: ''
+title: cheese puffs
+description: this is amazing!
+rating: '1'
+date: '2017-11-07T00:41:16.496Z'
+category: clients
+layout: client
+status: logged-in
+permalink: /clients/kid
