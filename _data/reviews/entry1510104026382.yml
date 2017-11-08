@@ -1,0 +1,12 @@
+_id: ffe5c570-c422-11e7-a2e7-635883b9dba7
+name: test
+address: ''
+title: test
+description: asdsadasd
+rating: '1'
+date: '2017-11-08T01:20:26.380Z'
+layout: client
+status: logged-in
+category: clients
+active: my-fix
+permalink: /clients/kid
