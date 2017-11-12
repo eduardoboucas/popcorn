@@ -1,0 +1,7 @@
+_id: bee40190-c7d3-11e7-ba4c-e73d86b6e735
+name: Joe Joe
+address: ''
+title: Real Genius
+description: "Let's write some code:\r\n\r\n```js\r\nvar a = 'foo';\r\nfunction add(x, y) {\r\n    return x + y;\r\n}\r\n```"
+rating: '5'
+date: '2017-11-12T18:03:11.727Z'
