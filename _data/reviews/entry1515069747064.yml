@@ -1,0 +1,10 @@
+_id: b8167ee0-f14c-11e7-83bb-b50b8e36fc3b
+name: foo
+address: ''
+title: Test
+description: asdfsafddsf **asdfadsf**
+rating: '4'
+date: 1515069747
+timestamp: 1515069747
+tags:
+  - blog-subscription
