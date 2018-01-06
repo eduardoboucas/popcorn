@@ -1,0 +1,7 @@
+_id: 01fd1170-f2ee-11e7-a4c4-67ff04e870a6
+name: XSS Test
+address: ''
+title: 'XSS 3.0: Return of the inline script'
+description: "<script>alert(1)</script>\r\n<a href=\"javascript:alert`1`>XSS</a>"
+rating: '5'
+date: 1515248971
