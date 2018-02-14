@@ -1,0 +1,12 @@
+_id: b4f4f4c0-1123-11e8-a047-07d296044fde
+name: Elon Musk
+address: ''
+title: Starman
+description: Gonna be released soon.
+rating: '5'
+date: '2018-02-14T01:09:29.527Z'
+timestamp: 1518570569
+commentDate: '2018-02-14T01:09:29.527Z'
+slug: '{options.slug}'
+approved: false
+article: '{options.slug}'
