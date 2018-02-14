@@ -1,0 +1,12 @@
+_id: 8f5a5280-112a-11e8-a047-07d296044fde
+name: mwz
+address: ''
+title: cloverfield paradox
+description: '**not good**'
+rating: '2'
+date: '2018-02-14T01:58:32.929Z'
+timestamp: 1518573512
+commentDate: '2018-02-14T01:58:32.929Z'
+slug: '{options.slug}'
+approved: false
+article: '{options.slug}'
