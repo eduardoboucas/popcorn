@@ -13,7 +13,7 @@ markdown: kramdown
 
 # Staticman
 staticman:
- allowedFields: ['name', 'title', 'description', 'rating']
+ allowedFields: ['address', 'name', 'title', 'description', 'rating']
  branch: gh-pages
  commitMessage: "Hey human, here is a new entry."
  filename: "entry{@timestamp}"
