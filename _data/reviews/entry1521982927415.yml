@@ -1,0 +1,9 @@
+_id: b8aa1a50-302c-11e8-b322-25e31ab1428e
+name: Test
+address: ''
+title: Testy
+description: '# Test'
+rating: '4'
+date: '2018-03-25T13:02:07.414Z'
+tags:
+  - comment-subscription
