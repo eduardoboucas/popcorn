@@ -1,0 +1,10 @@
+_id: f1a097b0-35b0-11e8-a2aa-97a51cc5217b
+name: test
+address: ''
+title: test movie
+description: hahahah
+rating: '1'
+date: '2018-04-01T13:31:12.337Z'
+sticky: 'false'
+closed: 'false'
+slug: test-movie
