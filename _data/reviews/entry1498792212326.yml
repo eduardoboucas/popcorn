@@ -1,0 +1,7 @@
+_id: a1521ce0-5d41-11e7-a4b9-2303293c4f5c
+name: Test
+address: ''
+title: TestMovie
+description: It was <script>alert("pretty good");</script>
+rating: '4'
+date: '2017-06-30T03:10:12.320Z'
