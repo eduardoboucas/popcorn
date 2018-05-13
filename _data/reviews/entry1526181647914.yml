@@ -1,0 +1,12 @@
+_id: a12d7150-565c-11e8-a95b-afdbfd0bee31
+name: Foo
+address: ''
+title: Bar
+description: Foo message
+rating: '1'
+date: '2018-05-13T03:20:47.914Z'
+layout: post
+message: ' '
+tags:
+  - comment-subscription
+timestamp: 1526181647
