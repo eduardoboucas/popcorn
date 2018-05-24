@@ -1,0 +1,11 @@
+_id: 0efc3b90-5f94-11e8-a61a-4128d6332cf8
+name: foobar
+address: ''
+title: meh
+description: '*meh*'
+rating: '3'
+timestamp: 1527195014
+date: '2018-05-24T20:50:14.949Z'
+tags:
+  - comment-subscription
+slug: meh
