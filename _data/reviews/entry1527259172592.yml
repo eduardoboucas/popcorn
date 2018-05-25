@@ -1,0 +1,10 @@
+_id: 6fe6c340-6029-11e8-bf3d-35969255318e
+name: foo
+address: ''
+title: bar
+description: '# heading'
+rating: '5'
+date: 1527259172
+timestamp: 1527259172
+tags:
+  - comment-subscription
