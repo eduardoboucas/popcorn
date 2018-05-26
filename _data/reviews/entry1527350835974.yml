@@ -1,0 +1,10 @@
+_id: db9031a0-60fe-11e8-9825-9d35d29cfc90
+name: meowsker
+address: ''
+title: meow meow
+description: this movie is meow meows
+rating: '5'
+date: 1527350835
+timestamp: 1527350835
+tags:
+  - comment-subscription
