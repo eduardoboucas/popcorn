@@ -1,0 +1,10 @@
+_id: de53db30-6540-11e8-bad2-cb2ae67b23b7
+name: Test
+address: ''
+title: Test
+description: TESTING
+rating: '1'
+date: 1527818992
+timestamp: 1527818992
+tags:
+  - comment-subscription
