@@ -1,0 +1,12 @@
+_id: 1f38c240-66b4-11e8-a410-b10b2fe2b059
+name: Nick
+address: ''
+title: Solo
+description: A bit too *long*
+rating: '3'
+date: '2018-06-02T22:27:24.286Z'
+timestamp: 1527978444
+tags:
+  - comment-subscription
+slug: solo
+commentDate: '2018-06-02T22:27:24.287Z'
