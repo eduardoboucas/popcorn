@@ -1,0 +1,10 @@
+_id: 0e3f3ff0-6862-11e8-97d3-757a25387548
+name: Foo
+address: ''
+title: Bar
+description: Baz
+rating: '5'
+date: '2018-06-05T01:44:59.478Z'
+tags:
+  - comment-subscription
+timestamp: 1528163099
