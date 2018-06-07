@@ -1,0 +1,11 @@
+_id: 2406f530-6a6f-11e8-9030-fbc557955408
+name: Awesome Guy
+address: ''
+title: The Intern
+description: The best movie within the last 10 years.
+rating: '5'
+date: '2018-06-07T16:23:41.759Z'
+name-slug: awesome-guy
+timestamp: 1528388621
+tags:
+  - comment-subscription
