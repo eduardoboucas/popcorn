@@ -1,0 +1,12 @@
+_id: 68f3dc70-6f02-11e8-a17c-1b86b81d1a23
+name: Olegzhan
+address: ''
+title: Bla-Bla-Band
+description: Hmmm. Idk.
+rating: '5'
+date: '2018-06-13T12:07:57.993Z'
+Name: '{fields.name}'
+category: '{fields.posts}'
+tags:
+  - comment-subscription
+timestamp: 1528891677
