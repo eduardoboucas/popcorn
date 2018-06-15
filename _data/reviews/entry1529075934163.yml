@@ -1,0 +1,6 @@
+_id: 6a246d40-70af-11e8-9910-8fe24f4e3f6a
+name: Alberto Stegeman
+address: ''
+title: The Witcher 3
+description: "You can fork this repository and use it as a starting point to create your own Staticman integration.\r\n\r\nThis is a sample page to demonstrate how Staticman can be used to integrate user-generated content into a static site. When a movie review is submitted, the data is sent to the Staticman API via Ajax, which will push it to the GitHub repository and cause a regeneration of the Jekyll site."
+rating: '2'
