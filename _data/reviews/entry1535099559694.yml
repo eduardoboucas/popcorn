@@ -1,0 +1,6 @@
+_id: 42cd8740-a778-11e8-9d49-9fff9455a2a1
+name: "My name is\r\nrating: 90"
+address: ''
+title: "Hello world\r\n    lorem: ipsum"
+description: <br /><b>Bold</b> *Bold* Break it?
+rating: '5'
