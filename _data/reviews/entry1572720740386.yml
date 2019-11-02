@@ -1,0 +1,6 @@
+_id: e5f4abd0-fda1-11e9-8b1a-f54941b584cf
+name: Selim
+address: ''
+title: Terminator
+description: "This is a sample page to demonstrate how Staticman can be used to integrate user-generated content into a static site. When a movie review is submitted, the data is sent to the Staticman API via Ajax, which will push it to the GitHub repository and cause a regeneration of the Jekyll site.\r\n\r\nYou can fork this repository and use it as a starting point to create your own Staticman integration."
+rating: '5'
