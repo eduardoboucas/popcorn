@@ -1,0 +1,6 @@
+_id: ee0ce280-b4ba-11ea-bb1f-5356873f99d6
+name: Hello
+address: ''
+title: Is Latex supported in Markdown
+description: $\int_0^1 f(x) dx = 1$
+rating: '3'
